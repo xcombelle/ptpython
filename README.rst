@@ -89,6 +89,11 @@ the options.)
 
 .. image :: https://github.com/jonathanslenders/ptpython/raw/master/docs/images/multiline.png
 
+Open in editor
+**************
+
+Pressing C-X C-E in emacs mode or 'v' in Vi navigation mode will open the input in the current editor.
+
 
 Syntax validation
 *****************
